@@ -6,4 +6,4 @@
 
 
 ---
-[code sandbox에서 실행하기-ts]("https://codesandbox.io/s/react-recoil-typescript-todolist-pnqzgi")
+[code sandbox에서 실행하기-ts](https://codesandbox.io/s/react-recoil-typescript-todolist-pnqzgi)
